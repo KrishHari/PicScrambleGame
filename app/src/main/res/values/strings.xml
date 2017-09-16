@@ -6,6 +6,6 @@
     <string name="question_text">What was the position of below image ?</string>
     <string name="flip_text">Remember the positions!. Images will flip in 15 seconds</string>
     <string name="game_start">Game starts..</string>
-    <string name="time_left">Time left !!!</string>
+    <string name="time_left">Your game starts in </string>
     <string name="sec">sec</string>
 </resources>
